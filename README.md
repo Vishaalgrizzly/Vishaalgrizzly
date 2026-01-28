@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vishaal</h1>
-<h3 align="center">An aspiring data scientist from Chennai, India</h3>
+<h1 align="center">Hi, I'm Vishaal</h1>
+<h3 align="center">A marketer with passion for tech and data from France</h3>
 
-- 🔭 I’m currently working on **Data science projects to build a portfolio**
-
-- 🌱 I’m currently learning **Machine learning and NLP**
+- 🔭 I’m currently working on **AI automation system and ML models**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
